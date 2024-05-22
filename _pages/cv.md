@@ -33,5 +33,8 @@ redirect_from:
      * MA1101 Introduction to analysis I (exercise sessions and responsibility for remote students), fall 2017 and 2018
      * MA1102 Introduction to analysis II (exercise sessions and responsibility for remote students), spring 2018
      * Student assistant in various undergraduate courses fall 2013-spring 2017
+ 
+  ## Organization
+  * I organized the SDU Operator Algebras seminar together with [Alistair Miller](https://sites.google.com/view/alistair-miller/home?authuser=0).
   
 ![Beitostølen](/images/beitostoelen_bat.jpg)
