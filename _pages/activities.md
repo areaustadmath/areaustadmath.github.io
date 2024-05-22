@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Organization
-* I organize the SDU Operator Algebras seminar together with [Alistair Miller](https://sites.google.com/view/alistair-miller/home?authuser=0).
 * I am a co-organizer of the [NSeaG](https://sites.google.com/view/nseag/home) workshop 2024: [OdenSeaG](https://sites.google.com/view/odenseag2024/home).
 
 ## Talks
