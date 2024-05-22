@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Employment
+* 2024-: Postdoc at The University of Oslo
 * 2022-2024: Postdoc at The University of Southern Denmark, Odense.
 * 2021-2022: Data engineering consultant at Bouvet Rogaland ASA.
 * 2017-2021: Doctoral research fellow at the Norwegian University of Science and Technology, Trondheim.
@@ -32,5 +33,8 @@ redirect_from:
      * MA1101 Introduction to analysis I (exercise sessions and responsibility for remote students), fall 2017 and 2018
      * MA1102 Introduction to analysis II (exercise sessions and responsibility for remote students), spring 2018
      * Student assistant in various undergraduate courses fall 2013-spring 2017
+ 
+  ## Organization
+  * I organized the SDU Operator Algebras seminar together with [Alistair Miller](https://sites.google.com/view/alistair-miller/home?authuser=0) from October 2022 to May 2024.
   
 ![Beitostølen](/images/beitostoelen_bat.jpg)
