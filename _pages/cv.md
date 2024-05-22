@@ -35,6 +35,6 @@ redirect_from:
      * Student assistant in various undergraduate courses fall 2013-spring 2017
  
   ## Organization
-  * I organized the SDU Operator Algebras seminar from October 2022 to May 2024 together with [Alistair Miller](https://sites.google.com/view/alistair-miller/home?authuser=0).
+  * I organized the SDU Operator Algebras seminar together with [Alistair Miller](https://sites.google.com/view/alistair-miller/home?authuser=0) from October 2022 to May 2024.
   
 ![Beitostølen](/images/beitostoelen_bat.jpg)
