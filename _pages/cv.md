@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Employment
-* 2024--: Postdoc at The University of Oslo
+* 2024-: Postdoc at The University of Oslo
 * 2022-2024: Postdoc at The University of Southern Denmark, Odense.
 * 2021-2022: Data engineering consultant at Bouvet Rogaland ASA.
 * 2017-2021: Doctoral research fellow at the Norwegian University of Science and Technology, Trondheim.
