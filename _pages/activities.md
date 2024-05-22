@@ -11,6 +11,7 @@ author_profile: true
 
 ## Talks
 Below is a selection of talks I have given the past few years
+* Recent progress on ideal separation properties for group C*-algebras, Danish Operator Algebra Meeting, Odense. (May 2024)
 * Ideal intersection properties for group-graded Banach *-algebras, Analysis seminar, Chalmers University, Gothenburg. (March 2024)
 * Detecting ideals in reduced crossed product C*-algebras of topological dynamical systems, Fields Institute Operator Algebras Seminar, Fields Institute, Toronto. (October 2023)
 * Detecting ideals in reduced crossed product C*-algebras of topological dynamical systems, IWOTA -- International Workshop on Operator Theory and Applications, University of Helsinki. (July-August 2023)
@@ -20,6 +21,5 @@ Below is a selection of talks I have given the past few years
 * Polycyclic-by-finite groups are C\*-unique, ASUERAU C*-seminar, Online. (November 2022)
 * C*-uniqueness results for groupoids, 28th Nordic Congress of Mathematicians, Aalto University. (August 2022)
 * C*-uniqueness results for groupoids, Glasgow Late August Symbolic Dynamics, Groups, and Operators Workshop, University of Glasgow. (August 2022)
-* C*-uniqueness of L1-algebras: History and recent results, Online seminar, University of Copenhagen and University of Southern Denmark, Online. (January 2022)
 
 ![Geirangerfjorden](/images/geiranger_foss.jpg)
