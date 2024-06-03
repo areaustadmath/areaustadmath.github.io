@@ -12,7 +12,5 @@ I am a research mathematician working as a postdoctoral research fellow in the [
 
 My research interests lie in the intersection between operator algebras and groups and groupoids. I currently focus on ideal intersection properties of convolution algebras associated with groups and groupoids. Recently I have also done research on compact quantum metric spaces.
 
-I co-organize the [SDU Operator Algebras Seminar](https://sites.google.com/view/operator-algebras-sdu). 
-
 
 ![Graakallen](/images/graakallen.jpeg)
